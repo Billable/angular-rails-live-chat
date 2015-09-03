@@ -42,6 +42,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'puma'
 gem 'redis'
 
-gem 'pry', group: [:development, :test]
-gem 'pry-debugger', group: [:development, :test]
 gem 'pg'
